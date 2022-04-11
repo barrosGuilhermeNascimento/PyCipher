@@ -6,7 +6,7 @@ alphabetArray = "abcdefghijklmnopqrstuvwxyz"
 
 # Getting the string
 raw_input = input("Insert your string: ")
-rotations = int(input("Insert the rotaions: ")) 
+rotations = int(input("Insert the rotations: ")) 
 returnString = ''
 
 for i in raw_input:
